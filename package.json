@@ -1,5 +1,8 @@
 {
-  "name": "tangerine-frontend-lib",
+  "name": "@RedHatInsights/tangerine-frontend-lib",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/RedHatInsights"
+  },
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
